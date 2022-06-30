@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022
-lastupdated: "2022-05-26"
+lastupdated: "2022-06-30"
 
 keywords: 
 
@@ -209,7 +209,7 @@ template_source_data_request_model['variablestore'] = [
 },
 {
 "name": "remote_cidr_blocks",
-"value": "["169.252.0.0/18"]",
+"value": "[\"169.252.0.0/18\"]",
 },
 {
 "name": "ibm_customer_number",
